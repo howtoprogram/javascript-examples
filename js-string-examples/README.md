@@ -9,4 +9,5 @@ To run the tests
 npm test
 
 # References
-### [Java REST Client Using Spring RestTemplate](http://howtoprogram.xyz/2016/07/03/java-rest-client-using-spring-resttemplate/)
+### [Convert string to number in JavaScript](https://howtoprogram.xyz/2017/09/09/convert-string-number-javascript/)
+### [Check If A String Contains Substring In JavaScript](https://howtoprogram.xyz/2017/09/06/javascript-check-string-contains-substring/)
